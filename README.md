@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+
+<div>
+  <a href="https://www.blurb.co.uk/b/10849946-practical-fp-in-scala-a-hands-on-approach-2nd-edi" target="_blank">
+    <img src="https://gvolpe.com/images/books/pfps1.png" width="25%" height="25%"/>
+  </a>
+  
+  <a href="https://leanpub.com/pfp-scala" target="_blank">
+    <img src="https://gvolpe.com/images/books/pfps2.png" width="25%" height="25%"/>
+  </a>
+  
+  <a href="https://leanpub.com/feda" target="_blank">
+    <img src="https://gvolpe.com/images/books/feda.png" width="25%" height="25%"/>
+  </a>
+</div>
+
+
 <!--
 **ogvolpe/ogvolpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
